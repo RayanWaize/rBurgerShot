@@ -1,3 +1,3 @@
 # rBurgerShot
 
-Discord : https://discord.gg/space-dev
+Discord : https://discord.gg/rdev
